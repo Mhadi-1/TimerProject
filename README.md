@@ -17,8 +17,6 @@ What sets this application apart is its unique feature: when the countdown finis
 
 ## VideoScreen
 
-[TimerVideo]
-
 https://github.com/user-attachments/assets/e2cf4ed9-c663-4e26-af19-259edda4ab70
 
  <!-- Replace with your screenshot paths -->
