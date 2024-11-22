@@ -15,17 +15,10 @@ What sets this application apart is its unique feature: when the countdown finis
 - **User-Friendly Interface**: Simple and intuitive design for all users.
 - **Multiple Timers**: Set multiple timers simultaneously for different tasks.
 
-## Screenshots
+## VideoScreen
 
-(![TimerPic](
+[TimerVideo]
 
 https://github.com/user-attachments/assets/e2cf4ed9-c663-4e26-af19-259edda4ab70
 
-) <!-- Replace with your screenshot paths -->
-
-## Installation
-
-To install the Timer Alarm application, follow these steps:
-
-1. Clone the repository:
-   
+ <!-- Replace with your screenshot paths -->
