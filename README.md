@@ -1,6 +1,6 @@
 # Timer Alarm Application
 
-![Timer Alarm Logo](C:\Users\chmik\Desktop\mypictures\timeraramPic.png) <!-- Replace with your logo image path -->
+![timeraramPic](https://github.com/user-attachments/assets/ffde1ec4-6e54-4cbd-84ca-00e30f07f8d0) <!-- Replace with your logo image path -->
 
 ## Overview
 
@@ -17,8 +17,11 @@ What sets this application apart is its unique feature: when the countdown finis
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png) <!-- Replace with your screenshot paths -->
-![Screenshot 2](path/to/screenshot2.png)
+(![TimerPic](
+
+https://github.com/user-attachments/assets/e2cf4ed9-c663-4e26-af19-259edda4ab70
+
+) <!-- Replace with your screenshot paths -->
 
 ## Installation
 
